@@ -7,8 +7,8 @@ Implementations of Classic Machine Learning Algorithm with C++
 - [X] k-means
 - [X] k-NN (k nearest neighbors)
 - [X] regression trees
-- [ ] simple linear regresion
-- [ ] multiple variable linear regression with SGD
+- [X] simple linear regresion
+- [X] multiple variable linear regression with SGD
 - [ ] logistic regression with SGD
 - [ ] perceptron
 - [ ] MLP with backpropagation
