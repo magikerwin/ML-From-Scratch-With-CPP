@@ -10,8 +10,8 @@ Implementations of Classic Machine Learning Algorithm with C++
 - [X] simple linear regresion
 - [X] multiple variable linear regression with SGD
 - [X] logistic regression with SGD
-- [ ] perceptron
-- [ ] MLP with backpropagation
+- [X] perceptron
+- [X] MLP with backpropagation
 - [ ] optimizer (SGD, Adam)
 
 ## Reference
