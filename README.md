@@ -1,2 +1,3 @@
-# ML-From-Scatch-with-C-
-Machine Learning From Scratch with C++
+# Machine Learning From Scratch with C++
+
+Implementations of Classic Machine Learning Algorithm with C++
