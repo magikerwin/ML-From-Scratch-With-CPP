@@ -12,7 +12,9 @@ Implementations of Classic Machine Learning Algorithm with C++
 - [X] logistic regression with SGD
 - [X] perceptron
 - [X] MLP with backpropagation
-- [ ] optimizer (SGD, Adam)
+- [X] optimizer (SGD, Adam)
+- [ ] random forest
+- [ ] convolutional neural network
 
 ## Reference
 * https://machinelearningmastery.com/machine-learning-algorithms-from-scratch/
